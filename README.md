@@ -1,4 +1,6 @@
-![Application Screenshot](Screenshot 2025-08-21 120623 (2))
+##  Screenshot
+![Application Screenshot](Screenshot%202025-08-21%20120623.png)
+
 
 # Soccer Tickets App
 
@@ -31,6 +33,7 @@ screenshot.png
 ```bash
 git clone https://github.com/LungeloMK/SoccerTicketsApp.git
 cd SoccerTicketsApp
+
 2. Open in your IDE
 Open NetBeans, IntelliJ IDEA, or Eclipse
 
