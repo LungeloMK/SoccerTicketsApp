@@ -29,11 +29,6 @@ TicketsFrame.java
 README.md
 screenshot.png
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/LungeloMK/SoccerTicketsApp.git
-cd SoccerTicketsApp
-
 2. Open in your IDE
 Open NetBeans, IntelliJ IDEA, or Eclipse
 
@@ -55,6 +50,10 @@ Or simply run the main method in TicketsFrameApp.java from your IDE.
 Java 17 (or compatible version)
 
 Java Swing (GUI toolkit)
+### 1. Clone the repository
+```bash
+git clone https://github.com/LungeloMK/SoccerTicketsApp.git
+cd SoccerTicketsApp
 
 Author
 Lungelo
